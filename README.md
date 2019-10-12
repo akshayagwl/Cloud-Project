@@ -1,2 +1,4 @@
 # Cloud-Project
 Privacy Policy Merger
+
+The need for aggregating privacy policies is present in a variety of application areas today. In cloud computing paradigm, the ability to aggregate policies as well as services will be useful and more effective for users that are privacy conscious regarding their sensitive or personal information. This project studies the problems associated with the Platform for Privacy Preference (P3P) language, and the present issues with communicating and understanding the P3P language. Furthermore, it discusses some efficient strategies and algorithms for the matching and the merging processes, and then elaborates on some privacy policy conflicts that may occur after merging policies. Lastly, the project presents a tool for matching and merging P3P policies. If successful, the merge produces an aggregate policy that is consistent with the policies of all participating service providers.
